@@ -12,7 +12,7 @@
 <h2>Arduino Uno Germanium Transistor Tester</h2>
 
 <p align="center">
-  <img width="821" src="https://i.postimg.cc/zvfwv9sj/schematic.jpg" alt="Tiny X-Mas Tree schematic">
+  <img width="820" src="https://i.postimg.cc/pX3rzXSc/Image3.jpg" alt="Arduino Uno Germanium Transistor Tester schematic">
 </p>
 
 <p>&nbsp;</p>
