@@ -1,14 +1,15 @@
 # arduino-uno-germanium-transistor-tester
 <p align="center">
   Arduino IDE C code for the Arduino Uno, using a SSD1306 OLED display and an ADS1115 16-Bit ADC<br />
-  <img width="572" src="https://i.postimg.cc/yWmRKmw5/20211112-223037.jpg" alt="Breadboard">
+  <img width="572" src="https://i.postimg.cc/q75xjL0X/20211112-223037.jpg" alt="Breadboard">
 </p>
 
-<p>Just a simple PCB and micrcontroller exercise I made for a friend</p>
-<p>The idea of this mini project is to practice SMD soldering, programming a microcontroller, and creating a festive knick-knack</p>
-<p>The code goes through several blinking patterns and utilizes two of the PWM pins in Fast PWM mode. While cycling through patterns, it goes into sleep mode to help conserve battery.</p>
+<p>I saw a post on DIY Stompboxes where someone else was attempting to do this, but I never saw them complete it</p>
+<p>I knew one of the problems was that the ADC on the ATMEGA328P is kind of limited and prone to too much noise</p>
+<p>So I found a breakout board for the ADS1115 16-Bit ADC was available and cheap, so I opted to use that to overcome</p>
+<p>the native hardware limitations</p>
 
-<h2>Tiny X-Mas Tree schematic</h2>
+<h2>Arduino Uno Germanium Transistor Tester</h2>
 
 <p align="center">
   <img width="821" src="https://i.postimg.cc/zvfwv9sj/schematic.jpg" alt="Tiny X-Mas Tree schematic">
