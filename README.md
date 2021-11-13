@@ -1,7 +1,7 @@
-# t84-xmas-tree
+# arduino-uno-germanium-transistor-tester
 <p align="center">
-  Atmel Studio C code for the attiny84v Christmas Tree<br />
-  <img width="572" src="https://i.postimg.cc/K8WW25gw/xmas.png" alt="Tiny X-Mas Tree">
+  Arduino IDE C code for the Arduino Uno, using a SSD1306 OLED display and an ADS1115 16-Bit ADC<br />
+  <img width="572" src="https://i.postimg.cc/yWmRKmw5/20211112-223037.jpg" alt="Breadboard">
 </p>
 
 <p>Just a simple PCB and micrcontroller exercise I made for a friend</p>
