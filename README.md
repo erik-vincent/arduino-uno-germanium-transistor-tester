@@ -6,7 +6,7 @@
 
 <p>I saw a post on DIY Stompboxes where someone else was attempting to do this, but I never saw them complete it</p>
 <p>I knew one of the problems was that the ADC on the ATMEGA328P is kind of limited and prone to too much noise</p>
-<p>So I found a breakout board for the ADS1115 16-Bit ADC was available and cheap, so I opted to use that to overcome</p>
+<p>So I found a breakout board for the ADS1115 16-Bit ADC that was available and cheap. So I opted to use that to overcome</p>
 <p>the native hardware limitations</p>
 
 <h2>Arduino Uno Germanium Transistor Tester</h2>
